@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/IES-Rafael-Alberti/unifi-hardening-checklist">
-    <img src="https://github.com/IES-Rafael-Alberti/unifi-hardening-checklist/blob/master/img/unifi-hardening-checklist_preview.png" alt="Logo de UniFi Hardening Checklist">
+    <img src="https://github.com/IES-Rafael-Alberti/unifi-hardening-checklist/blob/main/img/unifi-hardening-checklist_preview.png" alt="Logo de UniFi Hardening Checklist">
   </a>
 </p>
 
