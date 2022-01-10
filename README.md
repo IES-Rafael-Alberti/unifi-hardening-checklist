@@ -43,4 +43,4 @@ Trabajo en progreso... :construction_worker:
 
 ## Contraseña
 
-Modificación de contraseñas para acceder al dispositivos electónico. Accediendo en su web (127.0.0.1), entramos en su interfaz ya que podemos loguearnos con usuario/contraseña, por defecto esta puesta como admin/17281. Debemos modificar esta contraseña para que nadie pueda acceder a nuestro dispositivo
+Modificación de contraseñas para acceder al dispositivos electónico. Accediendo en su web (127.0.0.1), entramos en su interfaz ya que podemos loguearnos con usuario/contraseña, por defecto esta puesta como ubnt/ubnt. Debemos modificar esta contraseña para que nadie pueda acceder a nuestro dispositivo
