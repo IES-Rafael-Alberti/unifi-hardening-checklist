@@ -28,7 +28,9 @@
 - **[Introducción](#introduccion)**
   * [Estado](#estado)
   * [Tareas](#tareas)
-
+  **[Cifrados](#cifrados)**
+  * [Inseguros](#inseguros)
+  * [Seguros](#seguros)
 # Introduction
 
 Introducción al motivo de la creación del checklist, al hardening y a los dispositivos UniFi.
@@ -40,3 +42,9 @@ Trabajo en progreso... :construction_worker:
 ## Tareas
 
 - [ ] Añadir la información del checklist
+
+# Cifrados
+
+## Inseguros
+
+## Seguros
