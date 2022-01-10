@@ -28,7 +28,7 @@
 - **[Introducción](#introduccion)**
   * [Estado](#estado)
   * [Tareas](#tareas)
-
+- **[Contraseña por defecto](#contraseña)**
 # Introduction
 
 Introducción al motivo de la creación del checklist, al hardening y a los dispositivos UniFi.
@@ -41,3 +41,6 @@ Trabajo en progreso... :construction_worker:
 
 - [ ] Añadir la información del checklist
 
+## Contraseña
+
+Modificación de contraseñas para acceder al dispositivos electónico. Accediendo en su web (127.0.0.1), entramos en su interfaz ya que podemos loguearnos con usuario/contraseña, por defecto esta puesta como admin/17281. Debemos modificar esta contraseña para que nadie pueda acceder a nuestro dispositivo
