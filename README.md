@@ -28,7 +28,9 @@
 - **[Introducción](#introduccion)**
   * [Estado](#estado)
   * [Tareas](#tareas)
-- **[Contraseña por defecto](#contraseña)**
+- **[Contraseñas](#contraseña)**
+
+ 
 # Introduction
 
 Introducción al motivo de la creación del checklist, al hardening y a los dispositivos UniFi.
@@ -44,3 +46,6 @@ Trabajo en progreso... :construction_worker:
 ## Contraseña
 
 Modificación de contraseñas para acceder al dispositivos electónico. Accediendo en su web (127.0.0.1), entramos en su interfaz ya que podemos loguearnos con usuario/contraseña, por defecto esta puesta como ubnt/ubnt. Debemos modificar esta contraseña para que nadie pueda acceder a nuestro dispositivo
+
+Por otro lado, es comveniente sustituir la contraseña de acceso al Wifi, más segura de la que viene por defecto, que sea entre 10 y 20 dígitos, con números, símbolos, mayúsculas y minúsculas.
+
