@@ -30,6 +30,7 @@
   * [Tareas](#tareas)
 - **[Contraseñas](#contraseña)**
 - **[Actualización Firmware](#firmware)**
+- **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
 
  
 # Introduction
@@ -72,3 +73,12 @@ Pero _Unifi-Controller_ si. Tendremos esta opción.
 - Actualizaciones automáticas. También podemos recibir las actualizaciones de manera automáticas.
   A tráves del menu de configuración de _Unifi-Controller_ tenemos un _"check"_ que podremos activar/desactivar según nos convenga.
 
+## Tabla Checklist (Plantilla) Wi-Fi Unifi<a name="checklist"></a>
+
+## :ballot_box_with_check: Tabla Checklist (Plantilla)
+
+En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del checklist.
+
+| <b>Control</b> | <b>Nivel Bajo/Medio/Alto</b> | <b>Checkbox</b> |
+| :---        | :---:       | :---:        |
+| Texto-Control | Nivel: Bajo/Medio/Alto | :black_square_button: |
