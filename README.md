@@ -28,8 +28,8 @@
 - **[Introducción](#introduccion)**
   * [Estado](#estado)
   * [Tareas](#tareas)
-- ** [Contraseñas](#contraseña)**
-- ** [Actualización Firmware](#firmware)**
+- **[Contraseñas](#contraseña)**
+- **[Actualización Firmware](#firmware)**
 
  
 # Introduction
