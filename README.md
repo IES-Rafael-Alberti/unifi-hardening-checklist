@@ -50,7 +50,7 @@ Modificación de contraseñas para acceder al dispositivos electónico. Accedien
 
 Por otro lado, es comveniente sustituir la contraseña de acceso al Wifi, más segura de la que viene por defecto, que sea entre 10 y 20 dígitos, con números, símbolos, mayúsculas y minúsculas.
 
-## Actualización Firmware
+## Actualización Firmware<a name="firmware"><>
 
 Como sabemos, es importante mantener nuestros dispositivos siempre actualizados. Esto nos permite en princpio subsanar muchas de las vulnerabilidades que se usan en posibles ataques.
 
