@@ -47,7 +47,7 @@ Trabajo en progreso... :construction_worker:
 
 ## Contraseñas<a name="contraseña"></a>
 
-Modificación de contraseñas para acceder al dispositivos electónico. Accediendo en su web (127.0.0.1), entramos en su interfaz ya que podemos loguearnos con usuario/contraseña, por defecto esta puesta como ubnt/ubnt. Debemos modificar esta contraseña para que nadie pueda acceder a nuestro dispositivo
+Modificación de contraseñas para acceder al dispositivo electrónico. Accediendo en su web (127.0.0.1), entramos en su interfaz ya que podemos loguearnos con usuario/contraseña, por defecto esta puesta como ubnt/ubnt. Debemos modificar esta contraseña para que nadie pueda acceder a nuestro dispositivo
 
 Por otro lado, es comveniente sustituir la contraseña de acceso al Wifi, más segura de la que viene por defecto, que sea entre 10 y 20 dígitos, con números, símbolos, mayúsculas y minúsculas.
 
@@ -73,7 +73,7 @@ Pero _Unifi-Controller_ si. Tendremos esta opción.
 - Actualizaciones automáticas. También podemos recibir las actualizaciones de manera automáticas.
   A tráves del menu de configuración de _Unifi-Controller_ tenemos un _"check"_ que podremos activar/desactivar según nos convenga.
 
-## Tabla Checklist (Plantilla) Wi-Fi Unifi<a name="checklist"></a>
+## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
 
 ## :ballot_box_with_check: Tabla Checklist (Plantilla)
 
@@ -82,3 +82,5 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 | <b>Control</b> | <b>Nivel Bajo/Medio/Alto</b> | <b>Checkbox</b> |
 | :---        | :---:       | :---:        |
 | Texto-Control | Nivel: Bajo/Medio/Alto | :black_square_button: |
+| Contraseñas: Se han cambiado las claves por defecto del panel de administración del dispositivo y clave Wi-Fi. Haciendo uso de claves robustas entre 10 y 20 carácteres | Nivel: Alto | :black_square_button: |
+| Actualización Firmaware: Se ha actualizado el firmware en el dispositivo. | Nivel: Alto | :black_square_button: |
