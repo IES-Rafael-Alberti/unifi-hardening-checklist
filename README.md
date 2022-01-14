@@ -67,7 +67,7 @@ Si ya lo tenemos _"adoptado"_ , también podremos a tráves de las propiedades d
 Pero _Unifi-Controller_ si. Tendremos esta opción.
   - Nos permite a tráves del controlador, ingresando un link; para actualizar el dispositivo.
     Tiene un apartado de _Dispositivos Conocidos_ o _Dispositivos del Sitio_ , en el que podremos actualizar eligiendo previamente la versión.
-    Qque posteriormente en un apartado de _Descargas_ podremos descargarla en los distintos dispositivos que querramos.
+    Que posteriormente en un apartado de _Descargas_ , podremos descargarla en los distintos dispositivos que querramos.
 - Actualización vía SSH de manera local (Aplicable a UniFi AP) para dispositivos con/sin Internet.
 - Actualizaciones automáticas. También podemos recibir las actualizaciones de manera automáticas.
   A tráves del menu de configuración de _Unifi-Controller_ tenemos un _"check"_ que podremos activar/desactivar según nos convenga.
