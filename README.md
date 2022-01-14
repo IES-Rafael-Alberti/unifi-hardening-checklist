@@ -57,7 +57,7 @@ Como sabemos, es importante mantener nuestros dispositivos siempre actualizados.
 Por lo tanto tener un **Firmware** que reciba actualizaciones; es buena señal. Quiere decir que el fabricante se preocupa porque sus dispositivos sean cada vez más seguros.
 Y también nos permitirá mas variedad de configuraciones de hardening o bastionado.
 
-En este caso, los _Wi-Fi Unifi_, el fabricante y su comunidad va sacando actualizaciones y tenemos varias maneras de poder actualizarlos a tráves de la interfaz gráfica de su controlador _UniFi-Controller_ y son:
+En este caso, los _Wi-Fi Unifi_, el fabricante y su comunidad van sacando actualizaciones y tenemos varias maneras de poder actualizarlos a tráves de la interfaz gráfica de su controlador _UniFi-Controller_ y son:
 
 - Actualización simple a la última versión (si el/los dispositivos están _"adoptados"_).
   - También se puede realizar una actualización masiva; solo para los dispositivos inalámbricos, que esten pendientes de actualizarse.
