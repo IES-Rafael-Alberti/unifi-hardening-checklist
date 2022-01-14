@@ -44,13 +44,13 @@ Trabajo en progreso... :construction_worker:
 
 - [ ] Añadir la información del checklist
 
-## Contraseñas
+## Contraseñas<a name="contraseñas"></a>
 
 Modificación de contraseñas para acceder al dispositivos electónico. Accediendo en su web (127.0.0.1), entramos en su interfaz ya que podemos loguearnos con usuario/contraseña, por defecto esta puesta como ubnt/ubnt. Debemos modificar esta contraseña para que nadie pueda acceder a nuestro dispositivo
 
 Por otro lado, es comveniente sustituir la contraseña de acceso al Wifi, más segura de la que viene por defecto, que sea entre 10 y 20 dígitos, con números, símbolos, mayúsculas y minúsculas.
 
-## Actualización Firmware<a name="firmware"><>
+## Actualización Firmware<a name="firmware"></a>
 
 Como sabemos, es importante mantener nuestros dispositivos siempre actualizados. Esto nos permite en princpio subsanar muchas de las vulnerabilidades que se usan en posibles ataques.
 
