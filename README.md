@@ -29,6 +29,7 @@
   * [Estado](#estado)
   * [Tareas](#tareas)
 - **[Contraseñas](#contraseña)**
+- **[Actualización Firmware](#firmware)**
 
  
 # Introduction
@@ -49,3 +50,17 @@ Modificación de contraseñas para acceder al dispositivos electónico. Accedien
 
 Por otro lado, es comveniente sustituir la contraseña de acceso al Wifi, más segura de la que viene por defecto, que sea entre 10 y 20 dígitos, con números, símbolos, mayúsculas y minúsculas.
 
+## Actualización Firmaware
+
+Como sabemos, es importante mantener nuestros dispositivos siempre actualizados. Esto nos permite en princpio subsanar muchas de las vulnerabilidades que se usan en posibles ataques.
+Por lo tanto tener un firmware que reciba actualizaciones; es buena señal. Quiere decir que el fabricante se preocupa porque sus dispositivos sean cada vez más seguros.
+Y también nos permitirá mas variedad de configuraciones de hardening o bastionado.
+
+En este caso, los Wi-Fi Unifi, el fabricante va sacando actualizaciones y tenemos varias maneras de poder actualizarlos a tráves de la interfaz gráfica de su controlador _UniFi-Controller_ y son:
+- Actualización simple a la última versión (Si el/los dispositivos están _"adoptados"_).
+  - También se puede realizar una actualización masiva; solo para los dispositivos inalámbricos, que esten pendientes de actualizarse.
+- Actualización en dispositivos con acceso a Internet. El caso de que no se quiera la última versión y queramos una anterior o Beta. Por ejemplo, para probarla en un solo dispositivo. Antes de _"adoptar"_ el dispositivo en UniFi Controller. Si ya lo tenemos _"adoptado"_ , también podremos a tráves de las propiedades del dispositivo en _UniFi-Controller_ instalar una versión anterior.
+- Actualización en dispositivos sin conexión a Internet (Caché). En el caso de que los dispositivos Wi-Fi Unifi aún no tengan conexión Internet. Pero _Unifi-Controller_ si. Tendremos esta opción.
+Nos permite a tráves del controlador, ingresando un link para actualizar el dispositivo. Tiene un apartado de _Dispositivos Conocidos_ o _Dispositivos del Sitio_ en el que podremos actualizar eligiendo previamente la versión que posteriormente en un apartado de _Descargas_ podremos descargarla en los distintos dispositivos que querramos.
+- Actualización vía SSH de manera local (Aplicable a UniFi AP) para dispositivos con/sin Internet.
+- Actualizaciones automáticas. También podemos recibir las actualizaciones de manera automáticas. A tráves del menu de configuración de _Unifi-Controller_ tenemos un _"check"_ que podremos activar/desactivar según nos convenga.
