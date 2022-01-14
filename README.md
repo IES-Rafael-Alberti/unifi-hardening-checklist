@@ -44,7 +44,7 @@ Trabajo en progreso... :construction_worker:
 
 - [ ] Añadir la información del checklist
 
-## Contraseñas<a name="contraseñas"></a>
+## Contraseñas<a name="contraseña"></a>
 
 Modificación de contraseñas para acceder al dispositivos electónico. Accediendo en su web (127.0.0.1), entramos en su interfaz ya que podemos loguearnos con usuario/contraseña, por defecto esta puesta como ubnt/ubnt. Debemos modificar esta contraseña para que nadie pueda acceder a nuestro dispositivo
 
