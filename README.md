@@ -31,6 +31,7 @@
 - **[Contraseñas](#contraseña)**
 - **[Actualización Firmware](#firmware)**
 - **[Firewall](#firewall)**
+- **[Filtrado por M.A.C](#mac)**
 - **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
 
 
@@ -79,6 +80,13 @@ Pero _Unifi-Controller_ si. Tendremos esta opción.
 
 ## Firewall<a name="firewall"></a>
 Creación en proceso por Jose Manuel Arrieta
+
+## Filtrado por M.A.C<a name="mac"></a>
+Si queremos tener una capa adicional de seguridad, entre las recomendaciones básicas y si tenemos una lista concreta de los dispositovs que queremos que se conecte a nuestro _Unifi Wi-Fi_ o si por el contrario queremos denegar a _"x"_ dispositivos de que no se puedan conectar a nuestra red Wi-Fi.
+Está el filtrado por M.A.C
+Este dispositivo nos proporciona en sus opciones esta configuración.
+Enlace al proceso de configuración Filtrado por M.A.C en _Unifi Controller_: https://app.tango.us/app/workflow/32d30dd1-f737-4a22-9080-4e9c37614231
+
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
 
 ## :ballot_box_with_check: Tabla Checklist (Plantilla)
@@ -87,8 +95,9 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 
 | <b>Control</b> | <b>Nivel Bajo/Medio/Alto</b> | <b>Checkbox</b> |
 | :---        | :---:       | :---:        |
-| Texto-Control | Nivel: Bajo/Medio/Alto | :black_square_button: |
+| Nombre:Control | Nivel: Bajo/Medio/Alto | :black_square_button: |
 | Contraseñas: Se han cambiado las claves por defecto del panel de administración del dispositivo. Haciendo uso de claves robustas entre 10 y 20 carácteres alfanúmericos y carácteres especiales. | Nivel: Alto | :black_square_button: |
 | Actualización Firmware: Se ha actualizado el firmware en el dispositivo. | Nivel: Alto | :black_square_button: |
 | Microsegmentación de VLAN | Nivel:  | :black_square_button: |
 | Creación de backups automáticos | Nivel:  | :black_square_button: |
+| Filtrado por M.A.C: Se han establecido listas blancas/negras de M.A.C's en la red Wi-Fi | Nivel: Medio | :black_square_button: |
