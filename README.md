@@ -30,7 +30,9 @@
   * [Tareas](#tareas)
 - **[Contraseñas](#contraseña)**
 - **[Actualización Firmware](#firmware)**
+- **[Port Forwarding](#PortForwarding)**
 - **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
+
 
  
 # Introduction
@@ -72,6 +74,8 @@ Pero _Unifi-Controller_ si. Tendremos esta opción.
 - Actualización vía SSH de manera local (Aplicable a UniFi AP) para dispositivos con/sin Internet.
 - Actualizaciones automáticas. También podemos recibir las actualizaciones de manera automáticas.
   A tráves del menu de configuración de _Unifi-Controller_ tenemos un _"check"_ que podremos activar/desactivar según nos convenga.
+
+## Port Forwarding<a name="PortForwarding"></a>
 
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
 
