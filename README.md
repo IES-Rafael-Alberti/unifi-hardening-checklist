@@ -53,6 +53,8 @@ Modificación de contraseñas para acceder al dispositivo electrónico. Accedien
 
 Por otro lado, es comveniente sustituir la contraseña de acceso al Wifi, más segura de la que viene por defecto, que sea entre 10 y 20 dígitos, con números, símbolos, mayúsculas y minúsculas.
 
+https://app.tango.us/app/workflow/3244a260-907b-4529-ba0c-f795ed96beff
+
 ## Actualización Firmware<a name="firmware"></a>
 
 Como sabemos, es importante mantener nuestros dispositivos siempre actualizados. Esto nos permite en princpio subsanar muchas de las vulnerabilidades que se usan en posibles ataques.
