@@ -30,7 +30,7 @@
   * [Tareas](#tareas)
 - **[Contraseñas](#contraseña)**
 - **[Actualización Firmware](#firmware)**
-- **[Port Forwarding](#PortForwarding)**
+- **[Firewall](#firewall)**
 - **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
 
 
@@ -77,7 +77,7 @@ Pero _Unifi-Controller_ si. Tendremos esta opción.
 - Actualizaciones automáticas. También podemos recibir las actualizaciones de manera automáticas.
   A tráves del menu de configuración de _Unifi-Controller_ tenemos un _"check"_ que podremos activar/desactivar según nos convenga.
 
-## Port Forwarding<a name="PortForwarding"></a>
+## Firewall<a name="firewall"></a>
 Creación en proceso por Jose Manuel Arrieta
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
 
