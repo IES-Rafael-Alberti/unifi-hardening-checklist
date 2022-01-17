@@ -84,5 +84,5 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 | Texto-Control | Nivel: Bajo/Medio/Alto | :black_square_button: |
 | Contraseñas: Se han cambiado las claves por defecto del panel de administración del dispositivo. Haciendo uso de claves robustas entre 10 y 20 carácteres alfanúmericos y carácteres especiales. | Nivel: Alto | :black_square_button: |
 | Actualización Firmware: Se ha actualizado el firmware en el dispositivo. | Nivel: Alto | :black_square_button: |
-| Microsegmentación de VLAN (David Valenzuela Vargas) | Nivel:  | :black_square_button: |
-| Creación de backups automáticos (David Valenzuela Vargas) | Nivel:  | :black_square_button: |
+| Microsegmentación de VLAN | Nivel:  | :black_square_button: |
+| Creación de backups automáticos | Nivel:  | :black_square_button: |
