@@ -82,7 +82,7 @@ Pero _Unifi-Controller_ si. Tendremos esta opción.
 Creación en proceso por Jose Manuel Arrieta
 
 ## Filtrado por M.A.C<a name="mac"></a>
-Si queremos tener una capa adicional de seguridad, entre las recomendaciones básicas y si tenemos una lista concreta de los dispositovs que queremos que se conecte a nuestro _Unifi Wi-Fi_, o si por el contrario queremos denegar a _"x"_ dispositivos de que no se puedan conectar a nuestra red Wi-Fi. Tenemos el filtrado por M.A.C
+Si queremos tener una capa adicional de seguridad, entre las recomendaciones básicas y si tenemos una lista concreta de los dispositivos que queremos que se conecte a nuestro _Unifi Wi-Fi_, o si por el contrario queremos denegar a _"x"_ dispositivos de que no se puedan conectar a nuestra red Wi-Fi. Tenemos el filtrado por M.A.C
 
 Este dispositivo nos proporciona en sus opciones esta configuración.
 - Enlace al proceso de configuración Filtrado por M.A.C en _Unifi Controller_: https://app.tango.us/app/workflow/32d30dd1-f737-4a22-9080-4e9c37614231
