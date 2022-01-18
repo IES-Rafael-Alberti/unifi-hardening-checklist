@@ -87,6 +87,9 @@ Si queremos tener una capa adicional de seguridad, entre las recomendaciones bá
 Este dispositivo nos proporciona en sus opciones esta configuración.
 - Enlace al proceso de configuración Filtrado por M.A.C en _Unifi Controller_: https://app.tango.us/app/workflow/32d30dd1-f737-4a22-9080-4e9c37614231
 
+## IPv4 Configuration<a name="ipv4config"></a>
+Trabajo en progreso... 👷‍♂️ por Juanfe Roldan
+
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
 
 ## :ballot_box_with_check: Tabla Checklist (Plantilla)
