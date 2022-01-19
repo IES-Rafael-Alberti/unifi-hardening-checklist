@@ -32,6 +32,7 @@
 - **[Actualización Firmware](#firmware)**
 - **[Firewall](#firewall)**
 - **[Filtrado por M.A.C](#mac)**
+- **[Crear red Invitados](#guest)
 - **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
 
 
@@ -87,7 +88,7 @@ Si queremos tener una capa adicional de seguridad, entre las recomendaciones bá
 Este dispositivo nos proporciona en sus opciones esta configuración.
 - Enlace al proceso de configuración Filtrado por M.A.C en _Unifi Controller_: https://app.tango.us/app/workflow/32d30dd1-f737-4a22-9080-4e9c37614231
 
-## IPv4 Configuration<a name="ipv4config"></a>
+## Crear red de Invitados<a name="guest"></a>
 Trabajo en progreso... 👷‍♂️ por Juanfe Roldan
 
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
@@ -104,3 +105,4 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 | Microsegmentación de VLAN | Nivel:  | :black_square_button: |
 | Creación de backups automáticos | Nivel:  | :black_square_button: |
 | Filtrado por M.A.C: Se han establecido listas blancas/negras de M.A.C's en la red Wi-Fi | Nivel: Medio | :black_square_button: |
+| Crear red de Invitados: Se ha creado red Invitados diferenciada con la red principal | Nivel: Medio | :black_square_button: |
