@@ -90,6 +90,7 @@ Este dispositivo nos proporciona en sus opciones esta configuración.
 
 ## Crear red de Invitados<a name="guest"></a>
 En muchas redes el acceso público se ha convertido en algo necesario y muy valioso, desde los aeropuertos hasta las cafeterías, las redes de invitados están satisfaciendo necesidades, minimizando los riesgos de seguridad y asegurando calidad. UniFi habilita a los administradores con las herramientas necesarias para configurar redes de invitados.
+
 Enlace: https://app.tango.us/app/workflow/175f2b3a-3100-4c68-979a-9288f72b01ea
 
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
