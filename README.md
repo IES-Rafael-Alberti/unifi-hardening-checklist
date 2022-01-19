@@ -105,4 +105,4 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 | Microsegmentación de VLAN | Nivel:  | :black_square_button: |
 | Creación de backups automáticos | Nivel:  | :black_square_button: |
 | Filtrado por M.A.C: Se han establecido listas blancas/negras de M.A.C's en la red Wi-Fi | Nivel: Medio | :black_square_button: |
-| Crear red de Invitados: Se ha creado red Invitados diferenciada con la red principal | Nivel: Medio | :black_square_button: |
+| Se ha creado red Invitados diferenciada con la red principal | Nivel: Medio | :black_square_button: |
