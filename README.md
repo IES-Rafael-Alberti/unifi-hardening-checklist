@@ -82,6 +82,19 @@ Pero _Unifi-Controller_ si. Tendremos esta opción.
 ## Firewall<a name="firewall"></a>
 Creación en proceso por Jose Manuel Arrieta
 
+## Protocolo de Seguridad<a name="Cifrado"></a>
+El uso de WPA2 proporciona a los usuarios de WiFi un mayor nivel de seguridad, de modo que los datos compartidos a través de la red no puedan ser interceptados por terceros. Este protocolo actualmente no se puede considerar absolutamente seguro por lo que existe una nueva revision de este llamado WPA3.
+No todos los dipositivos son compatibles con este ultimo protocolo, por lo que tenemos la opción de configurar y hacer uso de uno de ellos dependiendo del dispositivo receptor.
+
+Enlace de configuración:
+https://app.tango.us/app/workflow/d2a9580c-8746-43ef-9711-57ce03c3d446
+
+## Configuracion IDS e IPS<a name="IDS"></a>
+En el dispositivo tenemos la opción de configurar IDS e IPS para protegernos del acceso al dispositivo y denegar paquetes que nuestro sistema detecte como intrusivo. En el momento que se producte una intrusión o ataque, este emite una alerta a los administradores del sistema
+
+Enlace de configuración: 
+https://app.tango.us/app/workflow/1d316b1b-67c0-4c21-ad62-a10c2acac0fb
+
 ## Filtrado por M.A.C<a name="mac"></a>
 Si queremos tener una capa adicional de seguridad, entre las recomendaciones básicas y si tenemos una lista concreta de los dispositivos que queremos que se conecte a nuestro _Unifi Wi-Fi_, o si por el contrario queremos denegar a _"x"_ dispositivos de que no se puedan conectar a nuestra red Wi-Fi. Tenemos el filtrado por M.A.C
 
@@ -108,3 +121,5 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 | Creación de backups automáticos | Nivel:  | :black_square_button: |
 | Filtrado por M.A.C: Se han establecido listas blancas/negras de M.A.C's en la red Wi-Fi | Nivel: Medio | :black_square_button: |
 | Red Guest: Se ha creado red Invitados diferenciada de la red principal. | Nivel: Medio | :black_square_button: |
+| Se ha configurado el protocolo de seguridad WPA2/WPA3. | Nivel: Alto | :black_square_button: |
+| Se ha configurado los sistemas IDS e IPS. | Nivel: Alto | :black_square_button: |
