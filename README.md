@@ -33,6 +33,8 @@
 - **[Firewall](#firewall)**
 - **[Filtrado por M.A.C](#mac)**
 - **[Crear red Invitados](#guest)**
+- **[Gestión Avanzada de Malware](#Malware)**
+- **[Notificaciones del dispositivo](#Notificaciones)**
 - **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
 
 
@@ -106,6 +108,16 @@ En muchas redes el acceso público se ha convertido en algo necesario y muy vali
 
 Enlace: https://app.tango.us/app/workflow/175f2b3a-3100-4c68-979a-9288f72b01ea
 
+## Gestión Avanzada de Malware<a name='Malware'></a>
+Para protegernos de todo tipo de malware tenemos bastantes opciones que podemos ir activando dependiendo de nuestras necesidades, yo elegí las más básicas a modo de demostración.
+
+Enlace: https://app.tango.us/app/workflow/63a77a14-9c29-432b-9717-7e2a6dd8e4ff
+
+## Notificaciones del dispositivo<a name="Notificaciones"></a>
+Podemos elegir las notificaciones que nos avisará el dispositivo, podemos seleccionar que se muestre como una notificación PUSH, que nos reenvíe a una página con la notificación o que nos mande un email.
+
+Enlace: https://app.tango.us/app/workflow/4f2067ce-7988-4b63-b10a-919151cd714f
+
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
 
 ## :ballot_box_with_check: Tabla Checklist (Plantilla)
@@ -123,3 +135,5 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 | Red Guest: Se ha creado red Invitados diferenciada de la red principal. | Nivel: Medio | :black_square_button: |
 | Se ha configurado el protocolo de seguridad WPA2/WPA3. | Nivel: Alto | :black_square_button: |
 | Se ha configurado los sistemas IDS e IPS. | Nivel: Alto | :black_square_button: |
+| Gestión de malware | Nivel: Alto | :black_square_button: |
+| Notificaciones | Nivel: Bajo | :black_square_button: |
