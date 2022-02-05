@@ -33,6 +33,8 @@
 - **[Firewall](#firewall)**
 - **[Filtrado por M.A.C](#mac)**
 - **[Crear red Invitados](#guest)**
+- **[Gestión Avanzada de Malware](#Malware)**
+- **[Notificaciones del dispositivo](#Notificaciones)**
 - **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
 
 
@@ -106,7 +108,7 @@ En muchas redes el acceso público se ha convertido en algo necesario y muy vali
 
 Enlace: https://app.tango.us/app/workflow/175f2b3a-3100-4c68-979a-9288f72b01ea
 
-## Gestión de Malware Avanzado<a name='Malware'></a>
+## Gestión Avanzada de Malware<a name='Malware'></a>
 Para protegernos de todo tipo de malware tenemos bastantes opciones que podemos ir activando dependiendo de nuestras necesidades, yo elegí las más básicas a modo de demostración.
 
 Enlace: https://app.tango.us/app/workflow/63a77a14-9c29-432b-9717-7e2a6dd8e4ff
