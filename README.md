@@ -35,6 +35,8 @@
 - **[Crear red Invitados](#guest)**
 - **[Gestión Avanzada de Malware](#Malware)**
 - **[Notificaciones del dispositivo](#Notificaciones)**
+- **[Protección de protocolos de email y VoiP](#EmailyVoIP)**
+- **[SNMP](#SNMP)**
 - **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
 
 
@@ -128,6 +130,16 @@ En este apartado vamso a a añadir  la configuracion upnp para añadir automatic
 
 link: https://app.tango.us/app/workflow/cc8e41e2-32e2-44e7-a3c1-c4204386cce1
 
+## Configuracion frente a ataques a protocolos de email y VoIP<a name="EmailyVoIP"></a>
+Aquí vamos a activar la protección frente a ataques a los protocolos de email(IMAP, SMTP y POP3) y frente a los ataques a VoIP.
+
+Enlace a la guía: https://app.tango.us/app/workflow/9834e41d-188b-4c6f-b01b-88e4505d20c6
+
+## Configuracion de SNMP<a name="SNMP"></a>
+Aquí vamos a activar la opción de SNMP para facilitar la configuración de administración entre los diferentes dispositivos de red.
+
+Enlace a la guía: https://app.tango.us/app/workflow/60d09e6b-8cab-4417-b6f7-90f376915bce
+
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
 
 ## :ballot_box_with_check: Tabla Checklist (Plantilla)
@@ -149,3 +161,5 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 | Notificaciones | Nivel: Bajo | :black_square_button: |
 | Configuracion avanzada global threat | Nivel: alto | :black_square_button: |
 | configuracion upnp | Nivel: Bajo | :black_square_button: |
+| Configuracion frente a ataques a protocolos de email y VoIP | Nivel: Medio | :black_square_button: |
+| Configuracion de SNMP | Nivel: Bajo | :black_square_button: |
