@@ -118,6 +118,16 @@ Podemos elegir las notificaciones que nos avisará el dispositivo, podemos selec
 
 Enlace: https://app.tango.us/app/workflow/4f2067ce-7988-4b63-b10a-919151cd714f
 
+## configuracion avanzada global threat management<a name="Notificaciones"></a>
+En este paso añadimos las configuraciones para control de ip comprometidas, TFTP, SNMP.
+
+link: https://app.tango.us/app/workflow/27232efb-8ed0-4141-977c-811acf4302f5
+
+## configuracion UPNP<a name="Notificaciones"></a>
+En este apartado vamso a a añadir  la configuracion upnp para añadir automaticamente la gateway a los dispositivos en la red que queramos.
+
+link: https://app.tango.us/app/workflow/cc8e41e2-32e2-44e7-a3c1-c4204386cce1
+
 ## Tabla Checklist Wi-Fi Unifi<a name="checklist"></a>
 
 ## :ballot_box_with_check: Tabla Checklist (Plantilla)
@@ -137,3 +147,5 @@ En el código del archivo copiar/pegar, para ir creando mas filas a la tabla del
 | Se ha configurado los sistemas IDS e IPS. | Nivel: Alto | :black_square_button: |
 | Gestión de malware | Nivel: Alto | :black_square_button: |
 | Notificaciones | Nivel: Bajo | :black_square_button: |
+| Configuracion avanzada global threat | Nivel: alto | :black_square_button: |
+| configuracion upnp | Nivel: Bajo | :black_square_button: |
