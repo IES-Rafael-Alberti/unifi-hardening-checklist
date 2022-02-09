@@ -35,6 +35,8 @@
 - **[Crear red Invitados](#guest)**
 - **[Gestión Avanzada de Malware](#Malware)**
 - **[Notificaciones del dispositivo](#Notificaciones)**
+- **[configuracion avanzada global threat management](#configuracion avanzada global threat management)**
+- **[configuracion UPNP](#configuracion UPNP)**
 - **[Protección de protocolos de email y VoiP](#EmailyVoIP)**
 - **[SNMP](#SNMP)**
 - **[Tabla Checklist (Plantilla) Wi-Fi Unifi](#checklist)**
@@ -120,12 +122,12 @@ Podemos elegir las notificaciones que nos avisará el dispositivo, podemos selec
 
 Enlace: https://app.tango.us/app/workflow/4f2067ce-7988-4b63-b10a-919151cd714f
 
-## configuracion avanzada global threat management<a name="Notificaciones"></a>
+## configuracion avanzada global threat management<a name="configuracion avanzada global threat management"></a>
 En este paso añadimos las configuraciones para control de ip comprometidas, TFTP, SNMP.
 
 link: https://app.tango.us/app/workflow/27232efb-8ed0-4141-977c-811acf4302f5
 
-## configuracion UPNP<a name="Notificaciones"></a>
+## configuracion UPNP<a name="configuracion UPNP"></a>
 En este apartado vamso a a añadir  la configuracion upnp para añadir automaticamente la gateway a los dispositivos en la red que queramos.
 
 link: https://app.tango.us/app/workflow/cc8e41e2-32e2-44e7-a3c1-c4204386cce1
